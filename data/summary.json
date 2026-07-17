@@ -1,0 +1,43 @@
+{
+  "bossKillCount": 20,
+  "generatedAt": "2026-07-17T20:39:14.420249+00:00",
+  "latestRaid": {
+    "date": "2026-07-12T12:41:06.686Z",
+    "instance": "Serpentshrine Cavern + Tempest Keep",
+    "name": "Sunday SSC TK"
+  },
+  "playerCount": 53,
+  "raidCount": 2,
+  "raids": [
+    {
+      "bossKillCount": 10,
+      "date": "2026-07-12T12:41:06.686Z",
+      "durationMs": 8363479,
+      "id": "01KXQXV203BX7WP0XWW5X8M5KM",
+      "instance": "Serpentshrine Cavern + Tempest Keep",
+      "name": "Sunday SSC TK",
+      "playerCount": 25,
+      "pullCount": 18,
+      "softresRaidId": "g86wzj",
+      "sscDurationMs": 3946996,
+      "tkDurationMs": 3657629,
+      "warcraftLogsReportId": "3J4QjRm267gfZvLW",
+      "wipeCount": 8
+    },
+    {
+      "bossKillCount": 10,
+      "date": "2026-07-08T15:05:25.498Z",
+      "durationMs": 7547886,
+      "id": "01KXQXV17WH9WT0A6WD9222D41",
+      "instance": "Serpentshrine Cavern + Tempest Keep",
+      "name": "SSC+TK Wednesday",
+      "playerCount": 25,
+      "pullCount": 22,
+      "softresRaidId": "wr3g5c",
+      "sscDurationMs": 3539081,
+      "tkDurationMs": 3410431,
+      "warcraftLogsReportId": "FxKq2Yc7WVhJAyLr",
+      "wipeCount": 12
+    }
+  ]
+}
